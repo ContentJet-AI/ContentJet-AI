@@ -62,11 +62,6 @@ ContentJet AI is built with a Gen Z-first approach, featuring:
 - Design Team: UI/UX and brand development
 - Marketing Team: Growth and user acquisition
 
-### Key Stakeholders
-- Founders: Strategic direction and vision
-- Product Manager: Feature prioritization and roadmap
-- Tech Lead: Technical architecture and implementation
-- Design Lead: Brand and user experience
 
 ## License
 
