@@ -1,5 +1,4 @@
 # ContentJet AI
-
 Next-generation AI-powered content creation platform for the Gen Z era.
 
 ContentJet AI is a cutting-edge startup initiative that revolutionizes content creation by combining artificial intelligence with psychological insights and real-time trend analysis. Our platform enables creators to generate viral-worthy content across multiple platforms in seconds.
